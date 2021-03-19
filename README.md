@@ -1,5 +1,6 @@
 ### Olá visitante 👋
-<p>Meu nome é Talita Sanchez, estou no último ano da graduação em Sistemas para Internet (UNOESTE) e do curso técnico de Programação para Jogos Digitais (ETEC). Trabalho como desenvolvedora de softwares para web e nessa caminhada já atuei em projeto utilizando C#, Pascal (FireMonkey) e utilizando minha Skill preferida JavaScript (Node.Js e React.Js).m Meu desing system preferido é Material Design, mas durante da faculdade realizei projetos usando Bootstrap e Html5 e Css3 somente também.</p>
+<p>Meu nome é Talita Sanchez, estou cursando o último ano da graduação em Sistemas para Internet (UNOESTE) e do curso técnico de Programação para Jogos Digitais (ETEC). Trabalho como desenvolvedora de softwares para web e mobile, nessa caminhada já atuei em projeto utilizando C#, Pascal (FireMonkey) e utilizando minha Skill preferida JavaScript (Node.Js e React.Js). Meu design system preferido é Material Design, mas durante a faculdade realizei projetos usando Bootstrap e somente Html5 e Css3 também.</p>
+<p>Eu ainda não tenho muitos projetos no Git, mas pretendo disponibilizar alguns exemplos que para mim foram úteis durante minhas formações e em projetos que atuei. Acredito na comunidade e estou sempre buscando me atualizar nas tecnologias e aprimorar minhas skills, afinal sempre há algo que possamos somar e se houver algo que eu possa te auxiliar, pode contar comigo.</p>
 
 <!--
 **SrtaSanchezZ/SrtaSanchezZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
